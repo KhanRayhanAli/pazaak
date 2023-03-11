@@ -1,0 +1,12 @@
+* {
+    background: black;
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+
+.headerBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid goldenrod 2px;
+}

@@ -1,4 +1,4 @@
-# pazaak
+# Pazaak!
 
 <p>Pazaak, a game from the Old Republic era, is a popular card game where the players have a set goal of reaching 20 without going over. The player with the highest score (not passing 20) wins.</p>
 
